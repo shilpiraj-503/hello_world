@@ -7,6 +7,6 @@
 
 #include <stdio.h>
 int main(void){
-	printf("Hello World and Github, this is my very first repo!");
+	printf(" Hello World and Github, this is my very first repo!");
 	return 0;
 }
